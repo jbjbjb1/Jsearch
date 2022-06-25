@@ -20,6 +20,7 @@ This is a search tool to index large local drives by file name and folders. It i
 * Indexing and opening previously indexed drives now possible
 
 ## Improvements to do
+* Add feature so does api call to github to check that lastest version of "master" branch is used
 * Allow searches of two phrases
 * Have hyperlink to open document
 * Index file creation date and sort results by date
